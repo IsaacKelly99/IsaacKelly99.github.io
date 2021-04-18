@@ -1,7 +1,7 @@
 # IsaacKelly99 projects 
 
 # Project 1: 
-# Hearth attack prediction
+# [Hearth attack prediction](https://github.com/IsaacKelly99/IKR/blob/master/Heart_attack_analysis.ipynb)
   Using the heart attack analysis prediction dataset i will try to predict the probability of someone getting a heart attack based on the given data.
   
   Making use of the next tools:
