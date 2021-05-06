@@ -1,6 +1,7 @@
 # IsaacKelly99 projects 
 
 # Project 1: 
+## ML supervised learning
 # [Hearth attack prediction](https://github.com/IsaacKelly99/IKR/blob/master/Heart_attack_analysis.ipynb)
   Using the heart attack analysis prediction dataset i will try to predict the probability of someone getting a heart attack based on the given data.
   
@@ -12,7 +13,16 @@
   and
   * GridsearchCV to choose the best hyperparameters for the KNN classifier.
 
+# Project 2: 
+## ML unsupervised learning
+# [Wikipedia recommender](https://github.com/IsaacKelly99/IKR/blob/master/wikipedia_recomendations.ipynb)
+  I created a wikipedia recommender program using NMF from the sckit learn- decomposition module
 
-
-# Project 2: Example project 2
-## This is another example
+  Tools used:
+  * TfidfVectorizer, to create a tfidf from the dataframe
+  * normalize
+  * TruncatedSVD
+  * make_pipeline
+  * Kmeans, for clustering
+  * pandas: read_csv, loc, dot, etc.
+  * numpy
