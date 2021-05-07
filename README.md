@@ -1,7 +1,7 @@
 # IsaacKelly99 projects 
-
-# Project 1: 
-## ML supervised learning
+--- 
+# ML supervised learning
+## Project 1:
 # [Hearth attack prediction](https://github.com/IsaacKelly99/IKR/blob/master/Heart_attack_analysis.ipynb)
   Using the heart attack analysis prediction dataset i will try to predict the probability of someone getting a heart attack based on the given data.
   
@@ -13,8 +13,20 @@
   and
   * GridsearchCV to choose the best hyperparameters for the KNN classifier.
 
-# Project 2: 
-## ML unsupervised learning
+## Project 2:
+# [Credit card aproval](https://github.com/IsaacKelly99/IKR/blob/master/Credit_card_aproval.ipynb)
+  I built a model to predict whether a bank user will get an aproval on a new credit card or get rejected
+
+  Tools used:
+  * Label encoder
+  * Iterative imputation
+  * train,test split
+  * Standard scaler
+  * Stacking classifier
+  * metrics: accuracy_score, matthews_corrcoef, f1_score
+---
+# ML unsupervised learning
+## Project 3:
 # [Wikipedia recommender](https://github.com/IsaacKelly99/IKR/blob/master/wikipedia_recomendations.ipynb)
   I created a wikipedia recommender program using NMF from the sckit learn- decomposition module
 
@@ -26,3 +38,17 @@
   * Kmeans, for clustering
   * pandas: read_csv, loc, dot, etc.
   * numpy
+
+## Project 4:
+# [Pizza clients clustering](https://github.com/IsaacKelly99/IKR/blob/master/Pizza_clustering_and_recomendations.ipynb)
+  This time i created an unsupervised learning model to cluster the likes of 200 pizza clients, based on the ingredients they like, its spicyness, age, gender, etc. Using KMeans   clustering
+
+  Other tools used:
+  *  Principal components analysis (PCA)
+  *  Standard Scaler
+  *  Label encoder
+  *  Matplotlib
+  *  Pandas
+  *  Numpy
+
+### *Projects im currently working on: natural lenguage generator, using Tensorflow to generate text quotes based on the book 'meditations, from marcus aurelius'*
