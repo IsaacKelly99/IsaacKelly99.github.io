@@ -1,5 +1,7 @@
 # IsaacKelly99 projects 
---- 
+
+---
+
 # ML supervised learning
 ## Project 1:
 # [Hearth attack prediction](https://github.com/IsaacKelly99/IKR/blob/master/Heart_attack_analysis.ipynb)
@@ -24,7 +26,9 @@
   * Standard scaler
   * Stacking classifier
   * metrics: accuracy_score, matthews_corrcoef, f1_score
+ 
 ---
+
 # ML unsupervised learning
 ## Project 3:
 # [Wikipedia recommender](https://github.com/IsaacKelly99/IKR/blob/master/wikipedia_recomendations.ipynb)
