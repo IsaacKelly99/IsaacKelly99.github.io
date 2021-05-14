@@ -57,7 +57,7 @@
 
 # Deep learning
 ## Project 5
-# [Videogame sales, classification and prediction](https://github.com/IsaacKelly99/IKR/blob/master/Videogame_sales.ipynb) 
+# [Videogame sales, classification and prediction](https://github.com/IsaacKelly99/IKR/blob/master/Videogame_sales.ipynb)
 (work in progress)
 ## Deep learning
 I will build a model to predict the sales of a game based on its name, console, genre, year and publisher, and whether or not it will win an award, using a X input and two outputs keras model
